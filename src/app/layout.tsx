@@ -21,8 +21,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "xupie.github.io",
-  description: "xupie.github.io",
+  title: "tatu16.github.io",
+  description: "tatu16.github.io",
 };
 
 export default function RootLayout({

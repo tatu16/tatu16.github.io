@@ -11,7 +11,7 @@ const projects = [
       "/projects/fintrack/3.png",
     ],
     img_alt: "FinTrack screenshot",
-    source: "https://github.com/Xupie/FinTrack",
+    source: "https://github.com/tatu16/FinTrack",
   },
   {
     project: "Kyselypeli",
@@ -25,7 +25,7 @@ const projects = [
       "/projects/kyselypeli/5.png",
     ],
     img_alt: "Kyselypeli screenshot",
-    source: "https://github.com/Xupie/taitaja2025",
+    source: "https://github.com/tatu16/taitaja2025",
   },
 ];
 
