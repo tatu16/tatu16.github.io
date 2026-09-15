@@ -27,7 +27,9 @@ export function LogoGithub() {
       rel="noopener noreferrer"
     >
       <Image
-        src={isDark ? "/github/github-mark-white.svg" : "/github/github-mark.svg"}
+        src={
+          isDark ? "/github/github-mark-white.svg" : "/github/github-mark.svg"
+        }
         alt="logo of github"
         width={36}
         height={36}

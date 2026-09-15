@@ -33,5 +33,13 @@
         "organizeImports": "on"
       }
     }
+  },
+  "css": {
+    "formatter": {
+      "enabled": true
+    },
+    "parser": {
+      "tailwindDirectives": true
+    }
   }
 }
